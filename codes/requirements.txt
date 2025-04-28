@@ -1,0 +1,13 @@
+opencv-python
+opencv-python-headless
+scikit-image
+scikit-learn
+numpy
+tensorflow
+matplotlib
+pandas
+xgboost
+torch
+torchvision
+lightgbm
+imbalanced-learn
